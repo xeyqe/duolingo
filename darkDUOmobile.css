@@ -25,8 +25,16 @@ div.home-page,
 div._2i8Km,
 label.B04k5._2fPEB._3_NyK._1Juqt {
     background: black !important;
-    /*border-style: solid;
-    border-width: 5px;*/
+    
+}
+
+._2-1wu {
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
+
+._2-1wu::-webkit-scrollbar{
+    width:0 !important;
 }
 
 ._3d5gL._14Dab {
@@ -53,6 +61,10 @@ html,
 ._27P4Z,
 button._2colQ._2ESN4._2arQ0._2vmUZ._1X3l0.eJd0I._3yrdh._2wXoR._1AM95._1dlWz.mucpb {
     width: unset;
+}
+
+._1sntG:after {
+    height: unset;
 }
 
 ._6t5Uh,
@@ -243,10 +255,10 @@ html {
 }
 
 button._1tSEs.oNqWF._3hso2._2vmUZ._1X3l0.eJd0I._3yrdh._2wXoR._1AM95._2PUh7.H7AnT,
-button._29wZD._34OWO._3AITH.FKIqu._2arQ0._2vmUZ._1X3l0.eJd0I._3yrdh._2wXoR._1AM95._1dlWz.mucpb {
+button._29wZD._34OWO._3AITH.FKIqu._2arQ0._2vmUZ._1X3l0.eJd0I._3yrdh._2wXoR._1AM95._1dlWz.mucpb,
+.panel span, .panel u {
     font-size: 20px;
 }
-
 
 .person {
     max-width: unset;
@@ -318,8 +330,8 @@ button._3_pD1._2ESN4._2arQ0._2vmUZ._1X3l0.eJd0I._3yrdh._2wXoR._1AM95._1dlWz.mucp
 
 @media (min-width: 700px) {
     
-    ._3gDW- {
-        margin-top: 20%;
+    label._3d5gL._1VKCj.NUoBR._386Rr._2QNyK._3H8zM._2q1CL._1X3l0.eJd0I.H7AnT {
+        z-index: 1000;
     }
     
     
@@ -402,7 +414,8 @@ button._3_pD1._2ESN4._2arQ0._2vmUZ._1X3l0.eJd0I._3yrdh._2wXoR._1AM95._1dlWz.mucp
     div.KRKEd._2UAIZ._1LyQh,
     #tempAlert,
     .KRKEd,
-    ._2gaCX.loqxs {
+    ._2gaCX.loqxs,
+    label {
         line-height: 35px !important;
     }
     input[type="radio"] {
@@ -422,11 +435,14 @@ button._3_pD1._2ESN4._2arQ0._2vmUZ._1X3l0.eJd0I._3yrdh._2wXoR._1AM95._1dlWz.mucp
         right: 25%;
         top: 50%;
     }
-
-
-    ._1l6NK {
-        height: 140px !important;
+    
+    ._1dGhu {
+        overflow-y: visible;
+        max-height: 50vh;
     }
+
+
+
 
     ._1KGr_.oNqWF._3hso2._3skMI._1AM95._2L5kw._3Ry1f {
         position: absolute;
@@ -462,9 +478,12 @@ button._3_pD1._2ESN4._2arQ0._2vmUZ._1X3l0.eJd0I._3yrdh._2wXoR._1AM95._1dlWz.mucp
         margin: 10px;
     }
 
-    .jJFkx._28jVs,
-    div._75iiA {
+    .jJFkx._28jVs {
         width: 95%;
+    }
+    
+    ._75iiA {
+        max-width: 65%;
     }
     
     span.OzTZU._1AM95 {
@@ -473,11 +492,6 @@ button._3_pD1._2ESN4._2arQ0._2vmUZ._1X3l0.eJd0I._3yrdh._2wXoR._1AM95._1dlWz.mucp
 
     ._3OzDB {
         margin-top: 30px;
-    }
-
-    ._1l6NK,
-    ._3rReK {
-        top: 75%;
     }
     
     a._2colQ._2ESN4._2arQ0._2vmUZ._1X3l0.eJd0I._3yrdh._2wXoR._1AM95._1dlWz.mucpb {
