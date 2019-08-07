@@ -330,6 +330,11 @@ button._3_pD1._2ESN4._2arQ0._2vmUZ._1X3l0.eJd0I._3yrdh._2wXoR._1AM95._1dlWz.mucp
     left: 15%;
 }
 
+
+span.oR3Zt {
+    line-height: 1.3 !important;
+}
+
 @media (min-width: 700px) {
     
     label._3d5gL._1VKCj.NUoBR._386Rr._2QNyK._3H8zM._2q1CL._1X3l0.eJd0I.H7AnT {
@@ -420,10 +425,6 @@ button._3_pD1._2ESN4._2arQ0._2vmUZ._1X3l0.eJd0I._3yrdh._2wXoR._1AM95._1dlWz.mucp
     label,
     ._2w5q7 {
         line-height: 1 !important;
-    }
-    
-    span.oR3Zt {
-	line-height: 1.3 !important;
     }
     
     input[type="radio"] {
