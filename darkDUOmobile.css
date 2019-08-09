@@ -362,6 +362,12 @@ span.oR3Zt {
         font-size: 0.8em !important;
     }
 
+    ._3PBCS *,
+    #tempAlert {
+        font-size: 25pt;
+        box-sizing: unset;
+    }
+
     ._1Y5M_ {
         justify-content: center;
     }
