@@ -256,12 +256,6 @@ html {
     background: transparent;
 }
 
-button._1tSEs.oNqWF._3hso2._2vmUZ._1X3l0.eJd0I._3yrdh._2wXoR._1AM95._2PUh7.H7AnT,
-button._29wZD._34OWO._3AITH.FKIqu._2arQ0._2vmUZ._1X3l0.eJd0I._3yrdh._2wXoR._1AM95._1dlWz.mucpb,
-.panel span, .panel u {
-    font-size: 25pt;
-}
-
 .person {
     max-width: unset;
     width: 100%;
@@ -362,8 +356,7 @@ span.oR3Zt {
         font-size: 0.8em !important;
     }
 
-    ._3PBCS *,
-    #tempAlert {
+    * {
         font-size: 25pt;
         box-sizing: unset;
     }
@@ -484,10 +477,6 @@ span.oR3Zt {
     
     ._75iiA {
         max-width: 65%;
-    }
-    
-    span.OzTZU._1AM95 {
-        font-size: 25pt;
     }
 
     ._3OzDB {
