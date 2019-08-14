@@ -17,17 +17,25 @@ body,
 ._1sqJV,
 ._32Xju,
 ._3vgyJ,
-._3giip,
 ._3B1cY,
 ._1aThI,
 div.container,
 .course td,
 div.home-page,
 div._2i8Km,
-label.B04k5._2fPEB._3_NyK._1Juqt {
+label.B04k5._2fPEB._3_NyK._1Juqt,
+._34sNg._1sntG {
     background: black !important;
-    border-style: solid;
-    border-width: 5px;
+    
+}
+
+._2-1wu {
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
+
+._2-1wu::-webkit-scrollbar{
+    width:0 !important;
 }
 
 ._3d5gL._14Dab {
@@ -39,16 +47,25 @@ label.B04k5._2fPEB._3_NyK._1Juqt {
 ._2jbOb ._2seHl,
 ._2jbOb .U_ned:hover,
 html,
-._3DsW-:after {
+._3DsW-:after,
+._3giip {
     background: black;
 }
 
-textarea, input {
-    -moz-user-select: text;
+@-moz-document url-prefix() {
+    textarea, input {
+        -moz-user-select: text;
+        direction: ltr;
+    }
 }
 
-._27P4Z {
+._27P4Z,
+button._2colQ._2ESN4._2arQ0._2vmUZ._1X3l0.eJd0I._3yrdh._2wXoR._1AM95._1dlWz.mucpb {
     width: unset;
+}
+
+._1sntG:after {
+    height: unset;
 }
 
 ._6t5Uh,
@@ -200,7 +217,8 @@ span._2-0SI,
 a.yXIVb,
 span._2vr_I,
 span._3NU9I,
-div#\:57b.a3s {
+div#\:57b.a3s,
+._26gJL {
     color: white !important;
 }
 
@@ -237,12 +255,6 @@ html {
 .story-page.play-controls-visible {
     background: transparent;
 }
-
-button._1tSEs.oNqWF._3hso2._2vmUZ._1X3l0.eJd0I._3yrdh._2wXoR._1AM95._2PUh7.H7AnT,
-button._29wZD._34OWO._3AITH.FKIqu._2arQ0._2vmUZ._1X3l0.eJd0I._3yrdh._2wXoR._1AM95._1dlWz.mucpb {
-    -size: 20px;
-}
-
 
 .person {
     max-width: unset;
@@ -304,11 +316,15 @@ div.KRKEd._2UAIZ._1LyQh {
     margin-top: 5% !important;
 }
 
-
 ._8pTVQ {
     margin-top: unset;
 }
 
 button._3_pD1._2ESN4._2arQ0._2vmUZ._1X3l0.eJd0I._3yrdh._2wXoR._1AM95._1dlWz.mucpb._2uPyd._2L5kw._3Ry1f {
     left: 15%;
+}
+
+
+span.oR3Zt {
+    line-height: 1.3 !important;
 }
