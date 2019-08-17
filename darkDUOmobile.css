@@ -95,7 +95,7 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
         line-height: 1;
     }
     
-    ._3Ptco button, .uu8iJ._1m_Ir {
+    .uu8iJ._1m_Ir {
         font-size: 2rem !important;
     }
     
@@ -145,6 +145,14 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
         width: 80vw;
         margin: 10vw;
     }
+    
+    ::-webkit-scrollbar  {
+        width: 0px !important;
+    }
+    
+    ._1Y5M_._2szQy {
+        overflow-y: scroll;
+    }
 }
 
 /* end of testing*/
@@ -179,6 +187,11 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
     color: white !important;
 }
 /*end of stories*/
+
+/*discussion*/
+._2VdVL {
+    background: unset;
+}
 
 /*tinycards*/
 ._8SfjL, ._3Kfqq, ._1bfyi, ._1ztQi {
