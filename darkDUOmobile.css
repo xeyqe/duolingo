@@ -45,6 +45,41 @@ a._3-KNY, ._3aWgW {
 ._378Tf, ._2jbOb .U_ned, ._1Vhap, label, td, input, textarea, ._29BVB, .title, ._2d3we, .U_ned, ._1gmtl, .yXIVb {
     color: white !important;
 }
+
+@media (min-width: 700px) {
+    .LFfrA._3MLiB>div {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        overflow-x: auto;
+    }
+
+    ._2_lzu {
+        display: flex !important;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 100vw;
+    }
+
+    ._2_lzu>div {
+      flex: 1 0 10%;
+      width:50vw !important;
+    }
+
+    ._3GXSM {
+      margin-top:170rem;
+      margin-bottom: 170rem;
+      transform: scale(1.5);
+    }
+ 
+}
+
+a[data-test="global-practice"], a[data-test="global-practice"]:after {
+    background: unset !important;
+}
+
+
+
 /*end of main screen*/
 
 /*testing*/
