@@ -56,9 +56,20 @@ div.XUDC1._3B1cY._1ZY-H {
     background: unset;
 }
 
+._3giip svg {
+    height: 300% !important;
+    width: 120% !important;
+    transform: translate3d(0px, -10px, 0px) !important;
+}
+
 .iNLw3:after, .iNLw3, button.iNLw3 {
     background-color: #312e2e;
     color: white !important;
+}
+
+button.iNLw3._2KUSO._2sM1A._1gz3r,
+button.iNLw3._1wSvB._2sM1A._1gz3r {
+    color: #5a5757 !important;
 }
 
 .iNLw3 ._3OV_b ._2sM1A ._1gz3r, .multiple-choice-challenge .challenge-answers li button, ._2gnHr:disabled:after {
@@ -70,10 +81,6 @@ div.XUDC1._3B1cY._1ZY-H {
     border-color: #5a5757 !important;
 }
 
-button:disabled {
-    color: #5a5757 !important;
-}
-
 ._3_NyK {
     color: white;
 }
@@ -83,24 +90,64 @@ button:disabled {
 }
 
 @media (min-width: 700px) {
-    ._3giip [data-test], ._75iiA, ._3giip button {
-        font-size: 2.5rem !important;
+    ._3giip [data-test], ._75iiA, ._3giip button, .MXDj9 * {
+        font-size: 2.5rem;
         line-height: 1;
     }
     
-    ._3Ptco button {
+    ._3Ptco button, .uu8iJ._1m_Ir {
         font-size: 2rem !important;
+    }
+    
+    .uu8iJ._1m_Ir {
+        left: 8px;
+        top: 8px;
     }
     
     ._3giip [data-test="hint-sentence"] {
         line-height: 1.3;
     }
+    
+    ._1l6NK, ._3rReK, .KekRP._3Txod._2KlCX, ._1cw2r {
+        top: unset;
+        transform: unset;
+        display: flex;
+    }
+    
+    ._1_XY0 * {
+        font-size: 3.5vmin;
+    }
+    
+    
+    ._3rReK {
+        left: unset;
+    }
+
+    ._1_XY0 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    ._1tSEs {
+        height: 3rem;
+        width: 3rem;
+    }
+    [role="dialog"] {
+        background: unset;
+    }
+    ._3ZTEO * {
+        color: white !important;
+    }
+    
+    ._1ttrU {
+        max-width: unset;
+        width: 80vw;
+        margin: 10vw;
+    }
 }
 
 /* end of testing*/
-
-
-
 
 /*stories*/
 .home-page, .challenge .selectable-token, .challenge .selectable-token.grade-neutral, .challenge-active.tap-challenge .tappable-phrase {
