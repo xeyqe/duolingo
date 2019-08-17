@@ -67,11 +67,12 @@ a._3-KNY, ._3aWgW {
     }
 
     ._3GXSM {
-      margin-top:170rem;
-      margin-bottom: 170rem;
-      transform: scale(1.5);
+        margin-top:170rem;
+        margin-bottom: 170rem;
+        margin-right: 22rem;
+        transform: scale(1.5);
+        left:50%;
     }
- 
 }
 
 a[data-test="global-practice"], a[data-test="global-practice"]:after {
