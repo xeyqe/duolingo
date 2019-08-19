@@ -182,6 +182,12 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
     background: #312e2e;
 }
 
+@media (min-height: 1200px) {
+    ._3giip {
+        max-height: 95vh;
+    }
+}
+
 @media (min-width: 700px) {
     ._3giip [data-test], ._75iiA, ._3giip button, .MXDj9 * {
         font-size: 2.5rem;
