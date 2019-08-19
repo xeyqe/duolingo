@@ -62,7 +62,6 @@ a._3-KNY, ._3aWgW {
         flex-direction: row;
         flex-wrap: wrap;
         width: 90vw;
-        transform: translateY(8%);
     }
     
     ._3MLiB, ._3MT-S {
@@ -104,7 +103,7 @@ a._3-KNY, ._3aWgW {
     
     ._3Zaw- {
         position: absolute;
-        top: 100px;
+        top: 18px;
     }
     
     ._3MLiB {
@@ -113,6 +112,14 @@ a._3-KNY, ._3aWgW {
     
     div.LFfrA._3MLiB, ._3MT-S {
         width: 90vw;
+    }
+    
+    ._1-8ju {
+        background: black;
+    }
+    
+    ._14HAm {
+        border: unset;
     }
 
 }
