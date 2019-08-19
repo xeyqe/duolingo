@@ -73,14 +73,11 @@ a._3-KNY, ._3aWgW {
     }
         
     ._2_lzu>div {
-        flex-shrink: 0;
+        flex-grow: 100;
         flex-basis: 10%;
         flex-wrap: wrap;
-        flex-direction: column;
-    }
-    
-    .-X3R5._25sFh {
-        align-self: flex-start;
+        margin: 0px;
+        align-self: flex-start;        
     }
     
     ._3GXSM {
@@ -134,6 +131,11 @@ a._3-KNY, ._3aWgW {
     
     ._14HAm {
         border: unset;
+    }
+    
+    ._2LApJ {
+        position: absolute;
+        bottom: 10px;
     }
 
 }
@@ -208,7 +210,7 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
         line-height: 1;
     }
     
-    .uu8iJ._1m_Ir, ._1mrf_ {
+    .uu8iJ._1m_Ir, ._1mrf_, .Xfhea {
         font-size: 2rem !important;
     }
     
