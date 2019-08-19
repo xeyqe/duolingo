@@ -46,6 +46,10 @@ a._3-KNY, ._3aWgW {
     color: white !important;
 }
 
+._1HyDi, .vv6ti, ._2ksB1 {
+    background-color: unset;
+}
+
 @media (min-width: 700px) {
     .LFfrA._3MLiB>div {
         display: flex;
@@ -58,6 +62,7 @@ a._3-KNY, ._3aWgW {
         flex-direction: row;
         flex-wrap: wrap;
         width: 90vw;
+        transform: translateY(8%);
     }
     
     ._3MLiB, ._3MT-S {
@@ -67,11 +72,7 @@ a._3-KNY, ._3aWgW {
     ._3MLiB {
         max-width: 90vw;    
     }
-    
-    ._2_lzu {
-        margin-bottom: 100rem;
-    }
-    
+        
     ._2_lzu>div {
         flex-shrink: 0;
         flex-basis: 5;
@@ -83,11 +84,8 @@ a._3-KNY, ._3aWgW {
         align-self: flex-start;
     }
     
-
     ._3GXSM {
-        /*margin-top:170rem;
-        margin-bottom: 170rem;*/
-        transform: scale(1.5);
+        transform: scale(1.5) translateY(17%);
     }
     
     ._3pcg6 {
@@ -100,8 +98,13 @@ a._3-KNY, ._3aWgW {
         font-size: 2rem;
     }
     
-    span._1Ugfr._1-ph4._3Lwfw._2QvFC {
-        margin-top:110rem;
+    ._1Ugfr {
+        display:none;
+    }
+    
+    ._3Zaw- {
+        position: absolute;
+        top: 100px;
     }
     
     ._3MLiB {
