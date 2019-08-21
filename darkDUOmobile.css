@@ -327,6 +327,10 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
 .synced-text.highlighted, .hint, .tap-challenge .tappable-phrase .point-to-phrase-synced-text {
     color: white !important;
 }
+
+.courses-mobile td {
+    background: unset !important;
+}
 /*end of stories*/
 
 /*discussion*/
