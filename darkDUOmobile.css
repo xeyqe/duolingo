@@ -200,9 +200,13 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
     background: #312e2e;
 }
 
-@media (min-height: 1200px) {
+@media only screen and (orientation: portrait) {
     ._3giip {
         max-height: 95vh;
+    }
+    
+    ._75iiA {
+        width: 80%;
     }
 }
 
@@ -210,6 +214,14 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
     ._3giip [data-test], ._75iiA, ._3giip button, .MXDj9 * {
         font-size: 2.5rem;
         line-height: 1;
+    }
+    
+    ._2colQ {
+        width: unset;
+    }
+    
+    ._3OzDB {
+        margin-top: 20px;
     }
     
     .uu8iJ._1m_Ir, ._1mrf_, .Xfhea {
@@ -233,12 +245,7 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
         top: unset;
         transform: unset;
         display: flex;
-    }
-    
-    ._1_XY0 * {
-        font-size: 3.5vmin;
-    }
-    
+    }    
     
     ._3rReK {
         left: unset;
