@@ -30,11 +30,11 @@ h1, h2, h3, h4, span.pAHKo, .ynL4Q {
     color: #c5bdbd;
 }
 
-a._3-KNY, ._3aWgW {
-    color: #c5c5c5;
+a._3-KNY, ._3aWgW, ._3Fb9m {
+    color: #c5c5c5 !important;
 }
 
-._1E3L7, ._2ANgP.a5SW0, .a5SW0, ._2EZRi, .zAm0Z, ._3MATO {
+._1E3L7, ._2ANgP.a5SW0, .a5SW0, .zAm0Z, ._3MATO {
     background: unset;
 }
 
@@ -86,8 +86,8 @@ a._3-KNY, ._3aWgW {
         }
 
         ._3pcg6 {
-            height: unset;
-            width: unset;
+            height: fit-content;
+            width: fit-content;
             font-size: 2.5rem;
         }
 
@@ -137,8 +137,23 @@ a._3-KNY, ._3aWgW {
         }
 
         ._2LApJ {
+            top: 70%;
             position: absolute;
-            bottom: 10px;
+            transform: rotate(90deg);
+            right: -120px;
+        }
+        
+        ._1N671 {
+            color: unset;
+        }
+        
+        ._2LApJ * {
+            font-size: 2.5rem;
+        }
+        
+        ._3Fb9m * {
+            font-size: 2.5rem !important;
+            line-height: 1;
         }
     }
 
@@ -153,6 +168,10 @@ a[data-test="global-practice"], a[data-test="global-practice"]:after {
 /*end of main screen*/
 
 /*testing*/
+._3giip * {
+    line-height: 1.1;
+}
+
 div.XUDC1._3B1cY._1ZY-H {
     background: black;
 }
@@ -212,10 +231,6 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
             width: 80%;
         }
 
-        ._3giip [data-test], ._75iiA, ._3giip button, .MXDj9 * {
-            font-size: 2.5rem;
-            line-height: 1;
-        }
 
         ._2colQ {
             width: unset;
@@ -225,21 +240,13 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
             margin-top: 20px;
         }
 
-        .uu8iJ._1m_Ir, ._1mrf_, .Xfhea {
-            font-size: 2rem !important;
-        }
-
-        ._1mrf_ {
-            line-height: 1;
-        }
-
         .uu8iJ._1m_Ir {
             left: 8px;
             top: 8px;
         }
 
         ._3giip [data-test="hint-sentence"] {
-            line-height: 1.3;
+            line-height: 1.3 !important;
         }
 
         ._1l6NK, ._3rReK, .KekRP._3Txod._2KlCX, ._1cw2r {
@@ -283,7 +290,7 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
             overflow-y: scroll;
         }
 
-        ._3giip span {
+        ._3giip * {
             font-size: 2.5rem !important;
         }
 
@@ -292,6 +299,20 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
         }
         ._1xgIc {
             padding-right: 15px;
+        }
+        
+        [role="dialog"] * {
+            line-height: 1;
+            font-size: 2.5rem;
+        }
+        
+        .EQhdd>div {
+            width: 45%;
+            height: unset;
+        }
+        
+        .erlyr, ._3bFAF._1cfou * {
+            color: white;
         }
     }
 }
@@ -334,8 +355,8 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
 /*end of stories*/
 
 /*discussion*/
-._2VdVL {
-    background: unset;
+._2VdVL, ._2EZRi {
+    background: black !important;
 }
 
 /*tinycards*/
