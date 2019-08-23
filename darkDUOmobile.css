@@ -50,6 +50,10 @@ a._3-KNY, ._3aWgW, ._3Fb9m {
     background-color: unset;
 }
 
+._jPjo, .Eb4Aa {
+    color: white;
+}
+
 @media only screen and (orientation: portrait) {
     @media (min-width: 700px) {
         .LFfrA._3MLiB>div {
@@ -180,10 +184,15 @@ div.XUDC1._3B1cY._1ZY-H {
     background: unset;
 }
 
-._3giip svg {
+._3foPi._1rpnX svg {
     height: 300% !important;
     width: 120% !important;
     transform: translate3d(0px, -10px, 0px) !important;
+}
+
+._3zkuO {
+    height: unset !important;
+    width: unset !important;
 }
 
 .iNLw3:after, .iNLw3, button.iNLw3, ._1mrf_ {
