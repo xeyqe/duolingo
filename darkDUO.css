@@ -54,6 +54,11 @@ a._3-KNY, ._3aWgW, ._3Fb9m {
     color: white;
 }
 
+._3FqQY._2EZRi ._3bFAF {
+    background: #312e2e;
+    color: white;
+}
+
 @media only screen and (orientation: portrait) {
     @media (min-width: 700px) {
         .LFfrA._3MLiB>div {
@@ -333,6 +338,10 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
         
         .erlyr, ._3bFAF._1cfou * {
             color: white;
+        }
+
+        span.uu8iJ._1m_Ir {
+            font-size: 15px !important;
         }
     }
 }
