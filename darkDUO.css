@@ -21,7 +21,7 @@ html, #root, .LY5Jf, ._2jbOb ._2seHl {
     background: #5a5757;
 }
 
-._3bFAF, .LB1Lx {
+.LB1Lx {
     background: #312e2e;
     color: white;
 }
@@ -281,8 +281,10 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
         [role="dialog"] {
             background: unset;
         }
-        ._3ZTEO * {
-            color: white !important;
+
+        ._3giip ._3bFAF._1ottH {
+            background: #312e2e;
+            color: white;
         }
 
         ._1ttrU {
