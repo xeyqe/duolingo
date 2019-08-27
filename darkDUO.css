@@ -230,6 +230,18 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
     background: #312e2e;
 }
 
+[role="dialog"] {
+    background: unset;
+}
+
+._3ZTEO ._3bFAF._1cfou {
+    background: #312e2e;
+}
+
+._3ZTEO ._3bFAF._1cfou * {
+    color: white;
+}
+
 @media only screen and (orientation: portrait) {
     @media (min-width: 700px) {
         ._3giip {
@@ -277,9 +289,6 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
         ._1tSEs {
             height: 3rem;
             width: 3rem;
-        }
-        [role="dialog"] {
-            background: unset;
         }
 
         ._3giip ._3bFAF._1ottH {
