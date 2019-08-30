@@ -61,6 +61,19 @@ a._3-KNY, ._3aWgW, ._3Fb9m {
 
 @media only screen and (orientation: portrait) {
     @media (min-width: 700px) {
+        .EQhdd ._3bFAF, ._3F_8q ._3bFAF {
+            font-size: 2rem;
+            line-height: 1;
+        }
+
+        .U_ned {
+            height: 6rem;
+        }
+
+        ._2jbOb ._2-Lx6 {
+            width: 20rem;
+        }
+
         .LFfrA._3MLiB>div {
             display: flex;
             flex-direction: row;
@@ -195,11 +208,6 @@ div.XUDC1._3B1cY._1ZY-H {
     transform: translate3d(0px, -10px, 0px) !important;
 }
 
-._3zkuO {
-    height: unset !important;
-    width: unset !important;
-}
-
 .iNLw3:after, .iNLw3, button.iNLw3, ._1mrf_ {
     background-color: #312e2e;
     color: white !important;
@@ -236,7 +244,8 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
 }
 
 [role="dialog"] {
-    background: unset;
+    background: black;
+    color: white;
 }
 
 ._3ZTEO ._3bFAF._1cfou {
@@ -264,11 +273,6 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
 
         ._3OzDB {
             margin-top: 20px;
-        }
-
-        .uu8iJ._1m_Ir {
-            left: 8px;
-            top: 8px;
         }
 
         ._3giip [data-test="hint-sentence"] {
@@ -341,7 +345,7 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
         }
 
         span.uu8iJ._1m_Ir {
-            font-size: 15px !important;
+            font-size: 20px !important;
         }
 
 	._1_XY0 button {
