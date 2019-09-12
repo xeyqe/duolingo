@@ -389,6 +389,25 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
 .courses-mobile td, .LY5Jf {
     background: unset !important;
 }
+
+.arrange-challenge .phrase-bank .phrase, .arrange-challenge .selected-phrases .arrange-phrase {
+    background: #312e2e;
+    color: white;
+}
+
+.arrange-challenge .phrase-bank .phrase.placed {
+    background: black;
+    color: gray;
+}
+
+.modal-background {
+    background: black;
+}
+
+.modal {
+    background: #312e2e;
+}
+
 /*end of stories*/
 
 /*discussion*/
