@@ -256,6 +256,11 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
     color: white;
 }
 
+._3giip ._3bFAF._1ottH, ._3giip ._3bFAF {
+    background: #312e2e;
+    color: white;
+}
+
 @media only screen and (orientation: portrait) {
     @media (min-width: 700px) {
         ._3giip {
@@ -298,11 +303,6 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
         ._1tSEs {
             height: 3rem;
             width: 3rem;
-        }
-
-        ._3giip ._3bFAF._1ottH {
-            background: #312e2e;
-            color: white;
         }
 
         ._1ttrU {
