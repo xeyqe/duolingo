@@ -59,6 +59,10 @@ a._3-KNY, ._3aWgW, ._3Fb9m {
     color: white;
 }
 
+._32Xju ._3bFAF {
+    background: black;
+}
+
 @media only screen and (orientation: portrait) {
     @media (min-width: 700px) {
         .EQhdd ._3bFAF, ._3F_8q ._3bFAF {
@@ -185,7 +189,9 @@ a[data-test="global-practice"], a[data-test="global-practice"]:after {
     background: unset !important;
 }
 
-
+._32Xju {
+    background: black;
+}
 
 /*end of main screen*/
 
@@ -259,6 +265,10 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
 ._3giip ._3bFAF._1ottH, ._3giip ._3bFAF {
     background: #312e2e;
     color: white;
+}
+
+._1TGq- {
+    background: black;
 }
 
 @media only screen and (orientation: portrait) {
@@ -406,6 +416,10 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
 
 .modal {
     background: #312e2e;
+}
+
+.splash-container {
+    background: black !important;
 }
 
 /*end of stories*/
