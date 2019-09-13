@@ -59,10 +59,6 @@ a._3-KNY, ._3aWgW, ._3Fb9m {
     color: white;
 }
 
-._32Xju ._3bFAF {
-    background: black;
-}
-
 @media only screen and (orientation: portrait) {
     @media (min-width: 700px) {
         .EQhdd ._3bFAF, ._3F_8q ._3bFAF {
@@ -440,4 +436,14 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
 
 ._36bTw .bQ9pw, ._3UTun a {
     color: #c9c9c9;
+}
+
+/*dictionary*/
+._32Xju ._3bFAF {
+    background: black;
+}
+
+/*words*/
+.Yd1hn div {
+    background: black;
 }
