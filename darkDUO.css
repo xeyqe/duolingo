@@ -196,6 +196,10 @@ a[data-test="global-practice"], a[data-test="global-practice"]:after {
     line-height: 1.1;
 }
 
+[data-test="hint-sentence"] {
+    line-height: 1.5;
+}
+
 div.XUDC1._3B1cY._1ZY-H {
     background: black;
 }
