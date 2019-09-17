@@ -443,6 +443,20 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
     background: black;
 }
 
+._2Aw8b, .sxmhN, ._1YG22:hover {
+    background: #312e2e;
+}
+
+._2Aw8b ._3bFAF, .sxmhN ._3bFAF {
+    background: black;
+}
+
+@media (max-width: 699px) {
+    ._2Qty_, ._1TD1Q {
+        background: black;
+    }
+}
+
 /*words*/
 .Yd1hn div {
     background: black;
