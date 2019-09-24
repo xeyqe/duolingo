@@ -358,8 +358,17 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
             font-size: 20px !important;
         }
 
-	._1_XY0 button {
+        ._1_XY0 button {
             font-size: 3vmin !important;
+        }
+
+        ._1ePWu {
+            right: 10%;
+            top: 10%;
+        }
+
+        ._1yghA {
+            line-height: 1.5;
         }
     }
 }
