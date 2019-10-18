@@ -196,6 +196,10 @@ a[data-test="global-practice"], a[data-test="global-practice"]:after {
     line-height: 1.1;
 }
 
+tr._2KveP {
+    color: white;
+}
+
 [data-test="hint-sentence"] {
     line-height: 1.5;
 }
