@@ -100,7 +100,7 @@ a._3-KNY, ._3aWgW, ._3Fb9m {
             flex-basis: 10%;
             flex-wrap: wrap;
             margin: 0px;
-            align-self: flex-start;        
+            align-self: flex-start;
         }
 
         ._3GXSM {
@@ -126,6 +126,7 @@ a._3-KNY, ._3aWgW, ._3Fb9m {
         ._3Zaw- {
             position: absolute;
             top: 18px;
+            left: -25px;
         }
 
         ._3MLiB {
@@ -137,8 +138,13 @@ a._3-KNY, ._3aWgW, ._3Fb9m {
             width: 100vw;
         }
 
-        div._2w0BN._1tAJo._12RuG, ._3hAy2 {
+        div._2w0BN._1tAJo._12RuG {
             width: 100%;
+        }
+
+        ._3hAy2 li {
+           margin-left: 6px !important;
+           margin-right: 6px !important;
         }
 
         div._2w0BN._1tAJo._12RuG {
@@ -158,24 +164,17 @@ a._3-KNY, ._3aWgW, ._3Fb9m {
             border: unset;
         }
 
-        ._2LApJ {
-            bottom: 0%;
-            position: absolute;
-            transform: rotate(90deg);
-            right: -120px;
-        }
-        
         ._1N671 {
             color: unset;
         }
-        
-        ._2LApJ * {
-            font-size: 2.5rem;
-        }
-        
+
         ._3Fb9m * {
             font-size: 2.5rem !important;
             line-height: 1;
+        }
+
+        .BWibf._3MLiB ._2_lzu {
+            display: none !important;
         }
     }
 
@@ -456,7 +455,7 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
 }
 
 /*dictionary*/
-._32Xju ._3bFAF {
+._32Xju ._3bFAF, ._3LvrA, ._3LvrA ._3bFAF, .LFfrA._3MLiB ._2ga2D {
     background: black;
 }
 
