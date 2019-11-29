@@ -278,6 +278,12 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
     background: black;
 }
 
+@media (min-width: 700px) {
+    ._34sNg {
+        border-top: unset;
+    }
+}
+
 @media only screen and (orientation: portrait) {
     @media (min-width: 700px) {
         ._3giip {
