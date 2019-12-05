@@ -432,7 +432,7 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
     color: gray;
 }
 
-.modal-background {
+.modal-background, .horizontal-spacer {
     background: black;
 }
 
