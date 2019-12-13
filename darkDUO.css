@@ -9,7 +9,7 @@ html, #root, .LY5Jf, ._2jbOb ._2seHl {
     background: #312e2e;
 }
 
-._2JYbA:hover {
+._2JYbA:hover, [data-test="skill-tree"], ._2_lzu > div, ._3giip > div, ._3gDW- {
     background-color: black;
 }
 
@@ -216,7 +216,31 @@ div.XUDC1._3B1cY._1ZY-H, ._3vSqb._2fPEB._3_NyK._1Juqt {
 }
 
 ._3giip, ._34sNg {
-    background: unset;
+    background-color: black !important;
+}
+
+button[data-test="challenge-tap-token"]:after {
+    background-color: #312e2e;
+}
+
+button ._2sM1A:after {
+    background: unset !important;
+}
+
+.panel.hide {
+    background: none;
+}
+
+._21B3_ span {
+    color: white !important;
+}
+
+._2ykLp:hover, ._1c1F4 {
+    background-color: #312e2e !important;
+}
+
+._3_NyK {
+    color: white !important;
 }
 
 ._3foPi._1rpnX svg {
@@ -393,7 +417,7 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
 /* end of testing*/
 
 /*stories*/
-.home-page, .challenge .selectable-token, .challenge .selectable-token.grade-neutral, .challenge-active.tap-challenge .tappable-phrase, .footer-bordered {
+.home-page, .challenge .selectable-token, .challenge .selectable-token.grade-neutral, .challenge-active.tap-challenge .tappable-phrase, .footer-bordered, .whole-page.desktop {
     background: #312e2e;
 }
 
