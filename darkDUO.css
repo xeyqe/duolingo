@@ -67,6 +67,12 @@ a._3-KNY, ._3aWgW, ._3Fb9m {
     color: white;
 }
 
+@media (min-width: 700px) {
+    ._1E3L7 {
+        background: #000;
+    }
+}
+
 @media only screen and (orientation: portrait) {
     @media (min-width: 700px) {
         .EQhdd ._3bFAF, ._3F_8q ._3bFAF {
