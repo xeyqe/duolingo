@@ -209,7 +209,7 @@ a[data-test="global-practice"], a[data-test="global-practice"]:after {
     line-height: 1.1;
 }
 
-tr._2KveP {
+tr._2KveP, #root > div > div._3a9fR._2-QsC._6mSzI._3arxU > div:nth-child(4) > div > div.erlyr {
     color: white;
 }
 
@@ -241,7 +241,7 @@ button ._2sM1A:after {
     color: white !important;
 }
 
-._2ykLp:hover, ._1c1F4 {
+._2ykLp:hover, ._1c1F4, #root > div > div._3a9fR._2-QsC._6mSzI._3arxU {
     background-color: #312e2e !important;
 }
 
