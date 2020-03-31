@@ -50,7 +50,8 @@ a._3-KNY, ._3aWgW, ._3Fb9m {
     color: unset !important;
 }
 
-._378Tf._1YG0X._3qO9M._33VdW, ._2jbOb .U_ned, ._1Vhap, label, td, input, textarea, ._29BVB, .title, ._2d3we, .U_ned, ._1gmtl, .yXIVb {
+._378Tf._1YG0X._3qO9M._33VdW, ._2jbOb .U_ned, ._1Vhap, label, td, input, textarea, ._29BVB, .title, ._2d3we, .U_ned, ._1gmtl, .yXIVb,
+div._1j18D._3DyOj._3scVN._2CXf4 {
     color: white !important;
 }
 
@@ -62,9 +63,21 @@ a._3-KNY, ._3aWgW, ._3Fb9m {
     color: white;
 }
 
+._3qODt {
+    color: white !important;
+}
+
 .EQhdd ._3bFAF, ._3F_8q ._3bFAF, ._1lnew._3vgyJ {
     background: #312e2e;
     color: white;
+}
+
+._3PNhp:hover, .zEs4P {
+    background: #312e2e !important;
+}
+
+._3Nl60 > div, ._3Nl60 > div > div {
+    background: black;
 }
 
 @media (min-width: 700px) {
@@ -209,19 +222,23 @@ a[data-test="global-practice"], a[data-test="global-practice"]:after {
     line-height: 1.1;
 }
 
-tr._2KveP, #root > div > div._3a9fR._2-QsC._6mSzI._3arxU > div:nth-child(4) > div > div.erlyr {
+tr._2KveP, #root > div > div._3a9fR._2-QsC._6mSzI._3arxU > div:nth-child(4) > div > div.erlyr, ._13Ae5._1JtWw._1tY-d._66Mfn._2NQKM {
     color: white;
+}
+
+._1HcF0, ._37FmC {
+    color: white !important;
 }
 
 [data-test="hint-sentence"] {
     line-height: 1.5;
 }
 
-div.XUDC1._3B1cY._1ZY-H, ._3vSqb._2fPEB._3_NyK._1Juqt {
+div.XUDC1._3B1cY._1ZY-H, ._3vSqb._2fPEB._3_NyK._1Juqt, ._3bFAF {
     background: black;
 }
 
-._3giip, ._34sNg {
+._3giip, ._34sNg, ._2vedk, ._2GYRQ, ._3ZdqB {
     background-color: black !important;
 }
 
