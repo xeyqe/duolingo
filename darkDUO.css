@@ -218,6 +218,10 @@ a[data-test="global-practice"], a[data-test="global-practice"]:after {
 /*end of main screen*/
 
 /*testing*/
+._37uvX:after {
+    display: none !important;
+}
+
 ._3giip * {
     line-height: 1.1;
 }
