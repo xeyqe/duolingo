@@ -503,6 +503,10 @@ button.iNLw3._1wSvB._2sM1A._1gz3r {
     background-color: black;
 }
 
+.synced-text.blank-out.has-text {
+    color: transparent !important;
+}
+
 /*end of stories*/
 
 /*discussion*/
