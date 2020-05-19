@@ -5,6 +5,14 @@ html, #root, .LY5Jf, ._2jbOb ._2seHl {
     color: white;
 }
 
+._2Q0dh ._31eqZ:hover, .-m_lc:hover, ._2Jt0i   {
+    background-color: black;
+}
+
+._2Q0dh ._1xMJQ {
+    background-color: #5e6669;
+}
+
 ._2ykLp:hover, ._1c1F4, .oNqWF:after, ._1YtRP, ._2kA5V, ._26YU4:hover, ._3bFAF._11Xk2, ._2A2eF._2Jt0i, ._1hese, .EtoEN, ._3nTB0, ._1frzL, ._3D7BY {
     background: #312e2e;
 }
@@ -242,8 +250,17 @@ tr._2KveP, #root > div > div._3a9fR._2-QsC._6mSzI._3arxU > div:nth-child(4) > di
     line-height: 1.5;
 }
 
-div.XUDC1._3B1cY._1ZY-H, ._3vSqb._2fPEB._3_NyK._1Juqt, ._3bFAF {
+div.XUDC1._3B1cY._1ZY-H, ._3vSqb._2fPEB._3_NyK._1Juqt, ._3bFAF, ._1qa4z {
     background: black;
+}
+
+._1qa4z {
+    border: gray;
+    border: solid;
+}
+
+._2R-8A {
+    color: white;
 }
 
 ._3giip, ._34sNg, ._2vedk, ._2GYRQ, ._3ZdqB {
