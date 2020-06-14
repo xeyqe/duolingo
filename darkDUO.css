@@ -469,12 +469,20 @@ label {
 /* end of testing*/
 
 /*stories*/
-.home-page, .challenge .selectable-token, .challenge .selectable-token.grade-neutral, .challenge-active.tap-challenge .tappable-phrase, .footer-bordered, .whole-page.desktop {
+.home-page, .challenge .selectable-token, .challenge .selectable-token.grade-neutral, .challenge-active.tap-challenge .tappable-phrase, .footer-bordered, .whole-page.desktop, ._2rXtz._3YBKO, .essF2, ._2rZ5u, ._2ah2v, ._1WWmh, ._37G8A {
     background: #312e2e;
+}
+
+.JQRA4.V0X_u, ._35Hg9, ._37G8A, button._2ah2v {
+    color: white;
 }
 
 .story-grid, .stories-header, .set, .story-page, .hint, .story-header {
     background-color: black !important;
+}
+
+._3WsWi, .VLETe, ._2TrHy, .DnOXu, ._3vGmx, ._215TQ, ._1g1Z1, ._1bXp6._1CGKV, ._37G8A.RGNlp {
+    background: black !important;
 }
 
 .challenge.match-challenge .tokens .selectable-token.match-grade-correct {
@@ -490,7 +498,7 @@ label {
     color: #c9c9c9 !important;
 }
 
-.challenge .selectable-token {
+.challenge .selectable-token, ._4LzCD, ._2rXtz._3YBKO {
     color: white;
 }
 
