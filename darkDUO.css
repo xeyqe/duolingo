@@ -92,6 +92,31 @@ div._1j18D._3DyOj._3scVN._2CXf4 {
     background: black;
 }
 
+._1YfQ8 > div {
+    background: black;
+}
+
+._1_p4S._3Gj5_ {
+    background: black;
+}
+
+._3TwVI, ._3TwVI > div > span > div > div > div, ._3TwVI > div > span > div > div {
+    background-color: black;
+    color: white;
+}
+
+.oBF46._1K9ZC {
+    background: black;
+}
+
+ul > li {
+    background-color: black
+}
+
+.Mr3if._2OhdT._1V15X._3PSt5 {
+    color: white !important;
+}
+
 @media (min-width: 700px) {
     ._1E3L7 {
         background: #000 !important;
@@ -230,6 +255,10 @@ a[data-test="global-practice"], a[data-test="global-practice"]:after {
 /*end of main screen*/
 
 /*testing*/
+._3x0ok div:not(._2nDUm), table * {
+    background: black;
+}
+
 ._37uvX:after {
     display: none !important;
 }
